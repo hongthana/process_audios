@@ -1,0 +1,2530 @@
+a	_a
+a	_ a
+ai	_a i
+ai	_ a i
+an	_an
+an	_ an
+an	_a n
+an	_ a n
+ang	_an g
+ang	_ an g
+ang	_a n g
+ang	_ a n g
+ao	_a o
+ao	_ a o
+ba	_ba
+ba	_b a
+ba	_ ba
+ba	_ b a
+bai	_ba i
+bai	_b a i
+bai	_ ba i
+bai	_ b a i
+ban	_ban
+ban	_ba n
+ban	_b an
+ban	_b a n
+ban	_ ban
+ban	_ ba n
+ban	_ b an
+ban	_ b a n
+bang	_ban g
+bang	_ba n g
+bang	_b an g
+bang	_b a n g
+bang	_ ban g
+bang	_ ba n g
+bang	_ b an g
+bang	_ b a n g
+bao	_ba o
+bao	_b a o
+bao	_ ba o
+bao	_ b a o
+bei	_be i
+bei	_b e i
+bei	_ be i
+bei	_ b e i
+ben	_ben
+ben	_be n
+ben	_b e n
+ben	_b en
+ben	_ ben
+ben	_ be n
+ben	_ b e n
+ben	_ b en
+beng	_ben g
+beng	_be n g
+beng	_b e n g
+beng	_b en g
+beng	_ ben g
+beng	_ be n g
+beng	_ b e n g
+beng	_ b en g
+bi	_bi
+bi	_b i
+bi	_ bi
+bi	_ b i
+bian	_bia n
+bian	_bi an
+bian	_b ian
+bian	_b i an
+bian	_bi a n
+bian	_b i a n
+bian	_b ia n
+bian	_ bia n
+bian	_ bi an
+bian	_ b ian
+biao	_bia o
+biao	_bi a o
+biao	_b i a o
+biao	_b ia o
+biao	_ bia o
+biao	_ bi a o
+biao	_ b i a o
+biao	_ b ia o
+bie	_bi e
+bie	_b i e
+bie	_ bi e
+bie	_ b i e
+bin	_bin
+bin	_bi n
+bin	_b i n
+bin	_b in
+bin	_ bin
+bin	_ bi n
+bin	_ b i n
+bin	_ b in
+bing	_bin g
+bing	_bi n g
+bing	_b i n g
+bing	_b in g
+bing	_ bin g
+bing	_ bi n g
+bing	_ b i n g
+bing	_ b in g
+bo	_b o
+bo	_ b o
+bu	_b u
+bu	_ b u
+ca	_ca
+ca	_c a
+ca	_ ca
+ca	_ c a
+cai	_ca i
+cai	_c a i
+cai	_ ca i
+cai	_ c a i
+can	_can
+can	_ca n
+can	_c an
+can	_c a n
+can	_ can
+can	_ ca n
+can	_ c an
+can	_ c a n
+cang	_can g
+cang	_ca n g
+cang	_c an g
+cang	_c a n g
+cang	_ can g
+cang	_ ca n g
+cang	_ c an g
+cang	_ c a n g
+cao	_ca o
+cao	_c a o
+cao	_ ca o
+cao	_ c a o
+ce	_ce
+ce	_c e
+ce	_ ce
+ce	_ c e
+cen	_cen
+cen	_ce n
+cen	_c e n
+cen	_c en
+cen	_ cen
+cen	_ ce n
+cen	_ c e n
+cen	_ c en
+ceng	_cen g
+ceng	_ce n g
+ceng	_c e n g
+ceng	_c en g
+ceng	_ cen g
+ceng	_ ce n g
+ceng	_ c e n g
+ceng	_ c en g
+cha	_cha
+cha	_ch a
+cha	_c ha
+cha	_ cha
+cha	_c h a
+cha	_ ch a
+cha	_ c ha
+cha	_ c h a
+chai	_cha i
+chai	_ch a i
+chai	_c ha i
+chai	_ cha i
+chai	_c h a i
+chai	_ ch a i
+chai	_ c ha i
+chai	_ c h a i
+chan	_chan
+chan	_cha n
+chan	_ch an
+chan	_ch a n
+chan	_c han
+chan	_ chan
+chan	_c ha n
+chan	_c h an
+chan	_ cha n
+chan	_ ch an
+chang	_chan g
+chang	_cha n g
+chang	_ch an g
+chang	_ch a n g
+chang	_c han g
+chang	_ chan g
+chang	_c ha n g
+chang	_c h an g
+chang	_ cha n g
+chang	_ ch an g
+chao	_cha o
+chao	_ch a o
+chao	_c ha o
+chao	_ cha o
+chao	_c h a o
+chao	_ ch a o
+chao	_ c ha o
+chao	_ c h a o
+che	_che
+che	_ch e
+che	_c he
+che	_ che
+che	_c h e
+che	_ ch e
+che	_ c he
+che	_ c h e
+chen	_chen
+chen	_che n
+chen	_ch e n
+chen	_ch en
+chen	_c hen
+chen	_ chen
+chen	_c he n
+chen	_ che n
+chen	_c h e n
+chen	_c h en
+cheng	_chen g
+cheng	_che n g
+cheng	_ch e n g
+cheng	_ch en g
+cheng	_c hen g
+cheng	_ chen g
+cheng	_c he n g
+cheng	_ che n g
+cheng	_c h e n g
+cheng	_c h en g
+chi	_ch i
+chi	_c h i
+chi	_ ch i
+chi	_ c h i
+chong	_cho n g
+chong	_ch o n g
+chong	_c ho n g
+chong	_ cho n g
+chong	_c h o n g
+chong	_ ch o n g
+chong	_ c ho n g
+chong	_ c h o n g
+chou	_cho u
+chou	_ch o u
+chou	_c ho u
+chou	_ cho u
+chou	_c h o u
+chou	_ ch o u
+chou	_ c ho u
+chou	_ c h o u
+chu	_chu
+chu	_ch u
+chu	_c hu
+chu	_ chu
+chu	_c h u
+chu	_ ch u
+chu	_ c hu
+chu	_ c h u
+chua	_chu a
+chua	_chua
+chua	_ch u a
+chua	_c hua
+chua	_ch ua
+chua	_c hu a
+chua	_ chu a
+chua	_ chua
+chua	_c h u a
+chua	_ ch u a
+chuai	_chu a i
+chuai	_chua i
+chuai	_ch u a i
+chuai	_c hua i
+chuai	_ch ua i
+chuai	_c hu a i
+chuai	_ chu a i
+chuai	_ chua i
+chuai	_c h u a i
+chuai	_ ch u a i
+chuan	_chuan
+chuan	_chu an
+chuan	_ch uan
+chuan	_ch u an
+chuan	_chu a n
+chuan	_chua n
+chuan	_c huan
+chuan	_ chuan
+chuan	_ch u a n
+chuan	_c hu an
+chuang	_chuan g
+chuang	_chu an g
+chuang	_ch uan g
+chuang	_ch u an g
+chuang	_chu a n g
+chuang	_chua n g
+chuang	_c huan g
+chuang	_ chuan g
+chuang	_ch u a n g
+chuang	_c hu an g
+chui	_chu i
+chui	_ch u i
+chui	_c hu i
+chui	_ chu i
+chui	_c h u i
+chui	_ ch u i
+chui	_ c hu i
+chui	_ c h u i
+chun	_chu n
+chun	_ch u n
+chun	_c hu n
+chun	_ chu n
+chun	_c h u n
+chun	_ ch u n
+chun	_ c hu n
+chun	_ c h u n
+chuo	_chu o
+chuo	_ch u o
+chuo	_c hu o
+chuo	_ chu o
+chuo	_c h u o
+chuo	_ ch u o
+chuo	_ c hu o
+chuo	_ c h u o
+ci	_c i
+ci	_ c i
+cong	_co n g
+cong	_c o n g
+cong	_ co n g
+cong	_ c o n g
+cou	_co u
+cou	_c o u
+cou	_ co u
+cou	_ c o u
+cu	_cu
+cu	_c u
+cu	_ cu
+cu	_ c u
+cuan	_cu an
+cuan	_c uan
+cuan	_c u an
+cuan	_cu a n
+cuan	_c u a n
+cuan	_c ua n
+cuan	_ cu an
+cuan	_ c uan
+cuan	_ c u an
+cuan	_ cu a n
+cui	_cu i
+cui	_c u i
+cui	_ cu i
+cui	_ c u i
+cun	_cu n
+cun	_c u n
+cun	_ cu n
+cun	_ c u n
+cuo	_cu o
+cuo	_c u o
+cuo	_ cu o
+cuo	_ c u o
+da	_da
+da	_d a
+da	_ da
+da	_ d a
+dai	_da i
+dai	_d a i
+dai	_ da i
+dai	_ d a i
+dan	_dan
+dan	_da n
+dan	_d an
+dan	_d a n
+dan	_ dan
+dan	_ da n
+dan	_ d an
+dan	_ d a n
+dang	_dan g
+dang	_da n g
+dang	_d an g
+dang	_d a n g
+dang	_ dan g
+dang	_ da n g
+dang	_ d an g
+dang	_ d a n g
+dao	_da o
+dao	_d a o
+dao	_ da o
+dao	_ d a o
+de	_de
+de	_d e
+de	_ de
+de	_ d e
+dei	_de i
+dei	_d e i
+dei	_ de i
+dei	_ d e i
+den	_de n
+den	_den
+den	_d e n
+den	_d en
+den	_ de n
+den	_ den
+den	_ d e n
+den	_ d en
+deng	_de n g
+deng	_den g
+deng	_d e n g
+deng	_d en g
+deng	_ de n g
+deng	_ den g
+deng	_ d e n g
+deng	_ d en g
+di	_di
+di	_d i
+di	_ di
+di	_ d i
+dia	_dia
+dia	_di a
+dia	_d i a
+dia	_d ia
+dia	_ dia
+dia	_ di a
+dia	_ d i a
+dia	_ d ia
+dian	_di an
+dian	_dia n
+dian	_d ian
+dian	_d i an
+dian	_di a n
+dian	_d i a n
+dian	_d ia n
+dian	_ di an
+dian	_ dia n
+dian	_ d ian
+diao	_dia o
+diao	_di a o
+diao	_d i a o
+diao	_d ia o
+diao	_ dia o
+diao	_ di a o
+diao	_ d i a o
+diao	_ d ia o
+die	_di e
+die	_d i e
+die	_ di e
+die	_ d i e
+ding	_di n g
+ding	_d i n g
+ding	_d in g
+ding	_ di n g
+ding	_ d i n g
+ding	_ d in g
+diu	_di u
+diu	_d i u
+diu	_ di u
+diu	_ d i u
+dong	_do n g
+dong	_d o n g
+dong	_ do n g
+dong	_ d o n g
+dou	_do u
+dou	_d o u
+dou	_ do u
+dou	_ d o u
+du	_du
+du	_d u
+du	_ du
+du	_ d u
+duan	_du an
+duan	_d uan
+duan	_d u an
+duan	_du a n
+duan	_d u a n
+duan	_d ua n
+duan	_ du an
+duan	_ d uan
+duan	_ d u an
+duan	_ du a n
+dui	_du i
+dui	_d u i
+dui	_ du i
+dui	_ d u i
+dun	_du n
+dun	_d u n
+dun	_ du n
+dun	_ d u n
+duo	_du o
+duo	_d u o
+duo	_ du o
+duo	_ d u o
+e	_e
+e	_ e
+ei	_e i
+ei	_ e i
+en	_e n
+en	_ e n
+en	_ en
+en	_en
+eng	_e n g
+eng	_ e n g
+eng	_ en g
+eng	_en g
+er	_e r
+er	_ e r
+fa	_fa
+fa	_f a
+fa	_ fa
+fa	_ f a
+fan	_fan
+fan	_fa n
+fan	_f an
+fan	_f a n
+fan	_ fan
+fan	_ fa n
+fan	_ f an
+fan	_ f a n
+fang	_fan g
+fang	_fa n g
+fang	_f an g
+fang	_f a n g
+fang	_ fan g
+fang	_ fa n g
+fang	_ f an g
+fang	_ f a n g
+fei	_fe i
+fei	_f e i
+fei	_ fe i
+fei	_ f e i
+fen	_fen
+fen	_fe n
+fen	_f e n
+fen	_f en
+fen	_ fen
+fen	_ fe n
+fen	_ f e n
+fen	_ f en
+feng	_fen g
+feng	_fe n g
+feng	_f e n g
+feng	_f en g
+feng	_ fen g
+feng	_ fe n g
+feng	_ f e n g
+feng	_ f en g
+fiao	_f i a o
+fiao	_f ia o
+fiao	_ f i a o
+fiao	_ f ia o
+fo	_f o
+fo	_fo
+fo	_ f o
+fo	_ fo
+fou	_f o u
+fou	_fo u
+fou	_ f o u
+fou	_ fo u
+fu	_f u
+fu	_ f u
+ga	_ga
+ga	_ g a
+ga	_g a
+ga	_ ga
+gai	_ga i
+gai	_ g a i
+gai	_g a i
+gai	_ ga i
+gan	_gan
+gan	_ga n
+gan	_ g an
+gan	_g an
+gan	_ g a n
+gan	_g a n
+gan	_ gan
+gan	_ ga n
+gang	_gan g
+gang	_ga n g
+gang	_ g an g
+gang	_g an g
+gang	_ g a n g
+gang	_g a n g
+gang	_ gan g
+gang	_ ga n g
+gao	_ga o
+gao	_ g a o
+gao	_g a o
+gao	_ ga o
+ge	_ge
+ge	_ g e
+ge	_g e
+ge	_ ge
+gei	_ge i
+gei	_ g e i
+gei	_g e i
+gei	_ ge i
+gen	_gen
+gen	_ge n
+gen	_ g e n
+gen	_g e n
+gen	_ g en
+gen	_g en
+gen	_ gen
+gen	_ ge n
+geng	_gen g
+geng	_ge n g
+geng	_ g e n g
+geng	_g e n g
+geng	_ g en g
+geng	_g en g
+geng	_ gen g
+geng	_ ge n g
+gong	_go n g
+gong	_ g o n g
+gong	_g o n g
+gong	_ go n g
+gou	_go u
+gou	_ g o u
+gou	_g o u
+gou	_ go u
+gu	_gu
+gu	_ g u
+gu	_g u
+gu	_ gu
+gua	_gua
+gua	_gu a
+gua	_ g u a
+gua	_g u a
+gua	_ g ua
+gua	_g ua
+gua	_ gua
+gua	_ gu a
+guai	_gua i
+guai	_gu a i
+guai	_ g u a i
+guai	_g u a i
+guai	_ g ua i
+guai	_g ua i
+guai	_ gua i
+guai	_ gu a i
+guan	_guan
+guan	_gu an
+guan	_gua n
+guan	_ g uan
+guan	_gu a n
+guan	_g uan
+guan	_ g u an
+guan	_g u an
+guan	_ guan
+guan	_ g u a n
+guang	_guan g
+guang	_gu an g
+guang	_gua n g
+guang	_ g uan g
+guang	_gu a n g
+guang	_g uan g
+guang	_ g u an g
+guang	_g u an g
+guang	_ guan g
+guang	_ g u a n g
+gui	_gu i
+gui	_ g u i
+gui	_g u i
+gui	_ gu i
+gun	_gu n
+gun	_ g u n
+gun	_g u n
+gun	_ gu n
+guo	_gu o
+guo	_ g u o
+guo	_g u o
+guo	_ gu o
+ha	_ha
+ha	_h a
+ha	_ ha
+ha	_ h a
+hai	_ha i
+hai	_h a i
+hai	_ ha i
+hai	_ h a i
+han	_han
+han	_ha n
+han	_h an
+han	_ han
+han	_h a n
+han	_ ha n
+han	_ h an
+han	_ h a n
+hang	_han g
+hang	_ha n g
+hang	_h an g
+hang	_ han g
+hang	_h a n g
+hang	_ ha n g
+hang	_ h an g
+hang	_ h a n g
+hao	_ha o
+hao	_h a o
+hao	_ ha o
+hao	_ h a o
+he	_he
+he	_h e
+he	_ he
+he	_ h e
+hei	_he i
+hei	_h e i
+hei	_ he i
+hei	_ h e i
+hen	_hen
+hen	_he n
+hen	_ hen
+hen	_h e n
+hen	_h en
+hen	_ he n
+hen	_ h e n
+hen	_ h en
+heng	_hen g
+heng	_he n g
+heng	_ hen g
+heng	_h e n g
+heng	_h en g
+heng	_ he n g
+heng	_ h e n g
+heng	_ h en g
+hm	_h m
+hm	_ h m
+hong	_ho n g
+hong	_h o n g
+hong	_ ho n g
+hong	_ h o n g
+hou	_ho u
+hou	_h o u
+hou	_ ho u
+hou	_ h o u
+hu	_hu
+hu	_h u
+hu	_ hu
+hu	_ h u
+hua	_hua
+hua	_hu a
+hua	_ hua
+hua	_h u a
+hua	_h ua
+hua	_ hu a
+hua	_ h u a
+hua	_ h ua
+huai	_hua i
+huai	_hu a i
+huai	_ hua i
+huai	_h u a i
+huai	_h ua i
+huai	_ hu a i
+huai	_ h u a i
+huai	_ h ua i
+huan	_huan
+huan	_hua n
+huan	_hu an
+huan	_hu a n
+huan	_h uan
+huan	_h u an
+huan	_ huan
+huan	_ hu an
+huan	_ hua n
+huan	_h u a n
+huang	_huan g
+huang	_hua n g
+huang	_hu an g
+huang	_hu a n g
+huang	_h uan g
+huang	_h u an g
+huang	_ huan g
+huang	_ hu an g
+huang	_ hua n g
+huang	_h u a n g
+hui	_hu i
+hui	_h u i
+hui	_ hu i
+hui	_ h u i
+hun	_hu n
+hun	_h u n
+hun	_ hu n
+hun	_ h u n
+huo	_hu o
+huo	_h u o
+huo	_ hu o
+huo	_ h u o
+ji	_ji
+ji	_j i
+ji	_ ji
+ji	_ j i
+jia	_jia
+jia	_ji a
+jia	_ jia
+jia	_j i a
+jia	_j ia
+jia	_ ji a
+jia	_ j i a
+jia	_ j ia
+jian	_jian
+jian	_jia n
+jian	_ji an
+jian	_ji a n
+jian	_j ian
+jian	_j i an
+jian	_ jian
+jian	_ jia n
+jian	_j i a n
+jian	_ ji an
+jiang	_jian g
+jiang	_jia n g
+jiang	_ji an g
+jiang	_ji a n g
+jiang	_j ian g
+jiang	_j i an g
+jiang	_ jian g
+jiang	_ jia n g
+jiang	_j i a n g
+jiang	_ ji an g
+jiao	_jia o
+jiao	_ji a o
+jiao	_ jia o
+jiao	_j i a o
+jiao	_j ia o
+jiao	_ ji a o
+jiao	_ j i a o
+jiao	_ j ia o
+jie	_ji e
+jie	_j i e
+jie	_ ji e
+jie	_ j i e
+jin	_jin
+jin	_ji n
+jin	_j i n
+jin	_ jin
+jin	_j in
+jin	_ ji n
+jin	_ j i n
+jin	_ j in
+jing	_jin g
+jing	_ji n g
+jing	_j i n g
+jing	_ jin g
+jing	_j in g
+jing	_ ji n g
+jing	_ j i n g
+jing	_ j in g
+jiong	_ji o n g
+jiong	_j i o n g
+jiong	_ ji o n g
+jiong	_ j i o n g
+jiu	_ji u
+jiu	_j i u
+jiu	_ ji u
+jiu	_ j i u
+ju	_ju
+ju	_j u
+ju	_ ju
+ju	_ j u
+juan	_ju an
+juan	_ju a n
+juan	_j uan
+juan	_j u an
+juan	_j u a n
+juan	_ ju an
+juan	_j ua n
+juan	_ ju a n
+juan	_ j uan
+juan	_ j u an
+jue	_ju e
+jue	_j u e
+jue	_ ju e
+jue	_ j u e
+jun	_ju n
+jun	_j u n
+jun	_ ju n
+jun	_ j u n
+ka	_ka
+ka	_k a
+ka	_ ka
+ka	_ k a
+kai	_ka i
+kai	_k a i
+kai	_ ka i
+kai	_ k a i
+kan	_kan
+kan	_ka n
+kan	_k an
+kan	_ kan
+kan	_k a n
+kan	_ ka n
+kan	_ k an
+kan	_ k a n
+kang	_kan g
+kang	_ka n g
+kang	_k an g
+kang	_ kan g
+kang	_k a n g
+kang	_ ka n g
+kang	_ k an g
+kang	_ k a n g
+kao	_ka o
+kao	_k a o
+kao	_ ka o
+kao	_ k a o
+ke	_ke
+ke	_k e
+ke	_ ke
+ke	_ k e
+ken	_ke n
+ken	_ken
+ken	_k e n
+ken	_k en
+ken	_ ke n
+ken	_ ken
+ken	_ k e n
+ken	_ k en
+keng	_ke n g
+keng	_ken g
+keng	_k e n g
+keng	_k en g
+keng	_ ke n g
+keng	_ ken g
+keng	_ k e n g
+keng	_ k en g
+kong	_ko n g
+kong	_k o n g
+kong	_ ko n g
+kong	_ k o n g
+kou	_ko u
+kou	_k o u
+kou	_ ko u
+kou	_ k o u
+ku	_ku
+ku	_k u
+ku	_ ku
+ku	_ k u
+kua	_kua
+kua	_ku a
+kua	_k u a
+kua	_ kua
+kua	_k ua
+kua	_ ku a
+kua	_ k u a
+kua	_ k ua
+kuai	_kua i
+kuai	_ku a i
+kuai	_k u a i
+kuai	_ kua i
+kuai	_k ua i
+kuai	_ ku a i
+kuai	_ k u a i
+kuai	_ k ua i
+kuan	_kuan
+kuan	_kua n
+kuan	_ku an
+kuan	_k uan
+kuan	_ku a n
+kuan	_k u an
+kuan	_ kuan
+kuan	_k u a n
+kuan	_ kua n
+kuan	_ ku an
+kuang	_kuan g
+kuang	_kua n g
+kuang	_ku an g
+kuang	_k uan g
+kuang	_ku a n g
+kuang	_k u an g
+kuang	_ kuan g
+kuang	_k u a n g
+kuang	_ kua n g
+kuang	_ ku an g
+kui	_ku i
+kui	_k u i
+kui	_ ku i
+kui	_ k u i
+kun	_ku n
+kun	_k u n
+kun	_ ku n
+kun	_ k u n
+kuo	_ku o
+kuo	_k u o
+kuo	_ ku o
+kuo	_ k u o
+la	_la
+la	_l a
+la	_ la
+la	_ l a
+lai	_la i
+lai	_l a i
+lai	_ la i
+lai	_ l a i
+lan	_lan
+lan	_la n
+lan	_l an
+lan	_l a n
+lan	_ lan
+lan	_ la n
+lan	_ l an
+lan	_ l a n
+lang	_lan g
+lang	_la n g
+lang	_l an g
+lang	_l a n g
+lang	_ lan g
+lang	_ la n g
+lang	_ l an g
+lang	_ l a n g
+lao	_la o
+lao	_l a o
+lao	_ la o
+lao	_ l a o
+le	_le
+le	_l e
+le	_ le
+le	_ l e
+lei	_le i
+lei	_l e i
+lei	_ le i
+lei	_ l e i
+leng	_le n g
+leng	_l e n g
+leng	_l en g
+leng	_ le n g
+leng	_ l e n g
+leng	_ l en g
+li	_li
+li	_l i
+li	_ li
+li	_ l i
+lia	_lia
+lia	_li a
+lia	_l i a
+lia	_l ia
+lia	_ lia
+lia	_ li a
+lia	_ l i a
+lia	_ l ia
+lian	_lian
+lian	_li an
+lian	_lia n
+lian	_l ian
+lian	_l i an
+lian	_li a n
+lian	_ lian
+lian	_l i a n
+lian	_ li an
+lian	_l ia n
+liang	_lian g
+liang	_li an g
+liang	_lia n g
+liang	_l ian g
+liang	_l i an g
+liang	_li a n g
+liang	_ lian g
+liang	_l i a n g
+liang	_ li an g
+liang	_l ia n g
+liao	_lia o
+liao	_li a o
+liao	_l i a o
+liao	_l ia o
+liao	_ lia o
+liao	_ li a o
+liao	_ l i a o
+liao	_ l ia o
+lie	_li e
+lie	_l i e
+lie	_ li e
+lie	_ l i e
+lin	_lin
+lin	_li n
+lin	_l i n
+lin	_l in
+lin	_ lin
+lin	_ li n
+lin	_ l i n
+lin	_ l in
+ling	_lin g
+ling	_li n g
+ling	_l i n g
+ling	_l in g
+ling	_ lin g
+ling	_ li n g
+ling	_ l i n g
+ling	_ l in g
+liu	_li u
+liu	_l i u
+liu	_ li u
+liu	_ l i u
+lo	_lo
+lo	_l o
+lo	_ lo
+lo	_ l o
+long	_lo n g
+long	_l o n g
+long	_ lo n g
+long	_ l o n g
+lou	_lo u
+lou	_l o u
+lou	_ lo u
+lou	_ l o u
+lu	_lu
+lu	_l u
+lu	_ lu
+lu	_ l u
+luan	_lu an
+luan	_l uan
+luan	_l u an
+luan	_lu a n
+luan	_l u a n
+luan	_l ua n
+luan	_ lu an
+luan	_ l uan
+luan	_ l u an
+luan	_ lu a n
+lun	_lu n
+lun	_l u n
+lun	_ lu n
+lun	_ l u n
+luo	_lu o
+luo	_l u o
+luo	_ lu o
+luo	_ l u o
+lv	_lv
+lv	_ lv
+lv	_l v
+lv	_ l v
+lve	_lv e
+lve	_ lv e
+lve	_l v e
+lve	_ l v e
+m	_m
+m	_ m
+ma	_ma
+ma	_m a
+ma	_ ma
+ma	_ m a
+mai	_ma i
+mai	_m a i
+mai	_ ma i
+mai	_ m a i
+man	_man
+man	_ma n
+man	_m an
+man	_m a n
+man	_ man
+man	_ ma n
+man	_ m an
+man	_ m a n
+mang	_man g
+mang	_ma n g
+mang	_m an g
+mang	_m a n g
+mang	_ man g
+mang	_ ma n g
+mang	_ m an g
+mang	_ m a n g
+mao	_ma o
+mao	_m a o
+mao	_ ma o
+mao	_ m a o
+me	_me
+me	_m e
+me	_ me
+me	_ m e
+mei	_me i
+mei	_m e i
+mei	_ me i
+mei	_ m e i
+men	_men
+men	_me n
+men	_m e n
+men	_m en
+men	_ men
+men	_ me n
+men	_ m e n
+men	_ m en
+meng	_men g
+meng	_me n g
+meng	_m e n g
+meng	_m en g
+meng	_ men g
+meng	_ me n g
+meng	_ m e n g
+meng	_ m en g
+mi	_mi
+mi	_m i
+mi	_ mi
+mi	_ m i
+mian	_mia n
+mian	_mi an
+mian	_m ian
+mian	_m i an
+mian	_mi a n
+mian	_m i a n
+mian	_m ia n
+mian	_ mia n
+mian	_ mi an
+mian	_ m ian
+miao	_mia o
+miao	_mi a o
+miao	_m i a o
+miao	_m ia o
+miao	_ mia o
+miao	_ mi a o
+miao	_ m i a o
+miao	_ m ia o
+mie	_mi e
+mie	_m i e
+mie	_ mi e
+mie	_ m i e
+min	_min
+min	_mi n
+min	_m i n
+min	_m in
+min	_ min
+min	_ mi n
+min	_ m i n
+min	_ m in
+ming	_min g
+ming	_mi n g
+ming	_m i n g
+ming	_m in g
+ming	_ min g
+ming	_ mi n g
+ming	_ m i n g
+ming	_ m in g
+miu	_mi u
+miu	_m i u
+miu	_ mi u
+miu	_ m i u
+mo	_mo
+mo	_m o
+mo	_ mo
+mo	_ m o
+mou	_mo u
+mou	_m o u
+mou	_ mo u
+mou	_ m o u
+mu	_m u
+mu	_ m u
+n	_n
+n	_ n
+na	_na
+na	_n a
+na	_ n a
+na	_ na
+nai	_na i
+nai	_n a i
+nai	_ n a i
+nai	_ na i
+nan	_nan
+nan	_na n
+nan	_n an
+nan	_ n an
+nan	_n a n
+nan	_ n a n
+nan	_ nan
+nan	_ na n
+nang	_nan g
+nang	_na n g
+nang	_n an g
+nang	_ n an g
+nang	_n a n g
+nang	_ n a n g
+nang	_ nan g
+nang	_ na n g
+nao	_na o
+nao	_n a o
+nao	_ n a o
+nao	_ na o
+ne	_ne
+ne	_n e
+ne	_ n e
+ne	_ ne
+nei	_ne i
+nei	_n e i
+nei	_ n e i
+nei	_ ne i
+nen	_nen
+nen	_ne n
+nen	_n e n
+nen	_ n e n
+nen	_n en
+nen	_ n en
+nen	_ nen
+nen	_ ne n
+neng	_nen g
+neng	_ne n g
+neng	_n e n g
+neng	_ n e n g
+neng	_n en g
+neng	_ n en g
+neng	_ nen g
+neng	_ ne n g
+ni	_ni
+ni	_n i
+ni	_ n i
+ni	_ ni
+nian	_nian
+nian	_ni an
+nian	_nia n
+nian	_n ian
+nian	_ n ian
+nian	_n i an
+nian	_ n i an
+nian	_ni a n
+nian	_ nian
+nian	_n i a n
+niang	_nian g
+niang	_ni an g
+niang	_nia n g
+niang	_n ian g
+niang	_ n ian g
+niang	_n i an g
+niang	_ n i an g
+niang	_ni a n g
+niang	_ nian g
+niang	_n i a n g
+niao	_nia o
+niao	_ni a o
+niao	_n i a o
+niao	_ n i a o
+niao	_n ia o
+niao	_ n ia o
+niao	_ nia o
+niao	_ ni a o
+nie	_ni e
+nie	_n i e
+nie	_ n i e
+nie	_ ni e
+nin	_nin
+nin	_ni n
+nin	_n i n
+nin	_ n i n
+nin	_n in
+nin	_ n in
+nin	_ nin
+nin	_ ni n
+ning	_nin g
+ning	_ni n g
+ning	_n i n g
+ning	_ n i n g
+ning	_n in g
+ning	_ n in g
+ning	_ nin g
+ning	_ ni n g
+niu	_ni u
+niu	_n i u
+niu	_ n i u
+niu	_ ni u
+nong	_no n g
+nong	_n o n g
+nong	_ n o n g
+nong	_ no n g
+nou	_no u
+nou	_n o u
+nou	_ n o u
+nou	_ no u
+nu	_nu
+nu	_n u
+nu	_ n u
+nu	_ nu
+nuan	_nu an
+nuan	_n uan
+nuan	_ n uan
+nuan	_n u an
+nuan	_ n u an
+nuan	_nu a n
+nuan	_n u a n
+nuan	_ n u a n
+nuan	_n ua n
+nuan	_ n ua n
+nun	_nu n
+nun	_n u n
+nun	_ n u n
+nun	_ nu n
+nuo	_nu o
+nuo	_n u o
+nuo	_ n u o
+nuo	_ nu o
+nv	_nv
+nv	_ nv
+nv	_n v
+nv	_ n v
+nve	_nv e
+nve	_ nv e
+nve	_n v e
+nve	_ n v e
+o	_ o
+o	_o
+ou	_ o u
+ou	_o u
+pa	_pa
+pa	_p a
+pa	_ pa
+pa	_ p a
+pai	_pa i
+pai	_p a i
+pai	_ pa i
+pai	_ p a i
+pan	_pan
+pan	_pa n
+pan	_p an
+pan	_p a n
+pan	_ pan
+pan	_ pa n
+pan	_ p an
+pan	_ p a n
+pang	_pan g
+pang	_pa n g
+pang	_p an g
+pang	_p a n g
+pang	_ pan g
+pang	_ pa n g
+pang	_ p an g
+pang	_ p a n g
+pao	_pa o
+pao	_p a o
+pao	_ pa o
+pao	_ p a o
+pei	_pe i
+pei	_p e i
+pei	_ pe i
+pei	_ p e i
+pen	_pen
+pen	_pe n
+pen	_p e n
+pen	_p en
+pen	_ pen
+pen	_ pe n
+pen	_ p e n
+pen	_ p en
+peng	_pen g
+peng	_pe n g
+peng	_p e n g
+peng	_p en g
+peng	_ pen g
+peng	_ pe n g
+peng	_ p e n g
+peng	_ p en g
+pi	_pi
+pi	_p i
+pi	_ pi
+pi	_ p i
+pian	_pia n
+pian	_pi an
+pian	_p ian
+pian	_p i an
+pian	_pi a n
+pian	_p i a n
+pian	_p ia n
+pian	_ pia n
+pian	_ pi an
+pian	_ p ian
+piao	_pia o
+piao	_pi a o
+piao	_p i a o
+piao	_p ia o
+piao	_ pia o
+piao	_ pi a o
+piao	_ p i a o
+piao	_ p ia o
+pie	_pi e
+pie	_p i e
+pie	_ pi e
+pie	_ p i e
+pin	_pin
+pin	_pi n
+pin	_p i n
+pin	_p in
+pin	_ pin
+pin	_ pi n
+pin	_ p i n
+pin	_ p in
+ping	_pin g
+ping	_pi n g
+ping	_p i n g
+ping	_p in g
+ping	_ pin g
+ping	_ pi n g
+ping	_ p i n g
+ping	_ p in g
+po	_po
+po	_p o
+po	_ po
+po	_ p o
+pou	_po u
+pou	_p o u
+pou	_ po u
+pou	_ p o u
+pu	_p u
+pu	_ p u
+qi	_qi
+qi	_q i
+qi	_ qi
+qi	_ q i
+qia	_qia
+qia	_qi a
+qia	_q i a
+qia	_q ia
+qia	_ qia
+qia	_ qi a
+qia	_ q i a
+qia	_ q ia
+qian	_qian
+qian	_qi an
+qian	_qia n
+qian	_qi a n
+qian	_q ian
+qian	_q i an
+qian	_ qian
+qian	_q i a n
+qian	_ qi an
+qian	_q ia n
+qiang	_qian g
+qiang	_qi an g
+qiang	_qia n g
+qiang	_qi a n g
+qiang	_q ian g
+qiang	_q i an g
+qiang	_ qian g
+qiang	_q i a n g
+qiang	_ qi an g
+qiang	_q ia n g
+qiao	_qia o
+qiao	_qi a o
+qiao	_q i a o
+qiao	_q ia o
+qiao	_ qia o
+qiao	_ qi a o
+qiao	_ q i a o
+qiao	_ q ia o
+qie	_qi e
+qie	_q i e
+qie	_ qi e
+qie	_ q i e
+qin	_qin
+qin	_qi n
+qin	_q i n
+qin	_q in
+qin	_ qin
+qin	_ qi n
+qin	_ q i n
+qin	_ q in
+qing	_qin g
+qing	_qi n g
+qing	_q i n g
+qing	_q in g
+qing	_ qin g
+qing	_ qi n g
+qing	_ q i n g
+qing	_ q in g
+qiong	_qi o n g
+qiong	_q i o n g
+qiong	_ qi o n g
+qiong	_ q i o n g
+qiu	_qi u
+qiu	_q i u
+qiu	_ qi u
+qiu	_ q i u
+qu	_qu
+qu	_q u
+qu	_ qu
+qu	_ q u
+quan	_qu an
+quan	_q uan
+quan	_qu a n
+quan	_q u an
+quan	_q u a n
+quan	_ qu an
+quan	_q ua n
+quan	_ qu a n
+quan	_ q uan
+quan	_ q u an
+que	_qu e
+que	_q u e
+que	_ qu e
+que	_ q u e
+qun	_qu n
+qun	_q u n
+qun	_ qu n
+qun	_ q u n
+ran	_ran
+ran	_r an
+ran	_ra n
+ran	_ r an
+ran	_r a n
+ran	_ ran
+ran	_ r a n
+ran	_ ra n
+rang	_ran g
+rang	_r an g
+rang	_ra n g
+rang	_ r an g
+rang	_r a n g
+rang	_ ran g
+rang	_ r a n g
+rang	_ ra n g
+rao	_ra o
+rao	_r a o
+rao	_ r a o
+rao	_ ra o
+re	_re
+re	_r e
+re	_ r e
+re	_ re
+ren	_ren
+ren	_re n
+ren	_r e n
+ren	_r en
+ren	_ ren
+ren	_ r e n
+ren	_ r en
+ren	_ re n
+reng	_ren g
+reng	_re n g
+reng	_r e n g
+reng	_r en g
+reng	_ ren g
+reng	_ r e n g
+reng	_ r en g
+reng	_ re n g
+ri	_r i
+ri	_ r i
+rong	_ro n g
+rong	_r o n g
+rong	_ r o n g
+rong	_ ro n g
+rou	_ro u
+rou	_r o u
+rou	_ r o u
+rou	_ ro u
+ru	_ru
+ru	_r u
+ru	_ r u
+ru	_ ru
+rua	_ru a
+rua	_rua
+rua	_r u a
+rua	_r ua
+rua	_ r u a
+rua	_ r ua
+rua	_ ru a
+rua	_ rua
+ruan	_ru an
+ruan	_r uan
+ruan	_r u an
+ruan	_ru a n
+ruan	_rua n
+ruan	_ r uan
+ruan	_ r u an
+ruan	_r u a n
+ruan	_r ua n
+ruan	_ ru an
+rui	_ru i
+rui	_r u i
+rui	_ r u i
+rui	_ ru i
+run	_ru n
+run	_r u n
+run	_ r u n
+run	_ ru n
+ruo	_ru o
+ruo	_r u o
+ruo	_ r u o
+ruo	_ ru o
+s	_s
+s	_ s
+sa	_sa
+sa	_s a
+sa	_ sa
+sa	_ s a
+sai	_sa i
+sai	_s a i
+sai	_ sa i
+sai	_ s a i
+san	_san
+san	_s an
+san	_sa n
+san	_s a n
+san	_ san
+san	_ s an
+san	_ sa n
+san	_ s a n
+sang	_san g
+sang	_s an g
+sang	_sa n g
+sang	_s a n g
+sang	_ san g
+sang	_ s an g
+sang	_ sa n g
+sang	_ s a n g
+sao	_sa o
+sao	_s a o
+sao	_ sa o
+sao	_ s a o
+se	_se
+se	_s e
+se	_ se
+se	_ s e
+sen	_sen
+sen	_se n
+sen	_s e n
+sen	_s en
+sen	_ sen
+sen	_ se n
+sen	_ s e n
+sen	_ s en
+seng	_sen g
+seng	_se n g
+seng	_s e n g
+seng	_s en g
+seng	_ sen g
+seng	_ se n g
+seng	_ s e n g
+seng	_ s en g
+sha	_sha
+sha	_sh a
+sha	_s ha
+sha	_ sha
+sha	_ sh a
+sha	_s h a
+sha	_ s ha
+sha	_ s h a
+shai	_sha i
+shai	_sh a i
+shai	_s ha i
+shai	_ sha i
+shai	_ sh a i
+shai	_s h a i
+shai	_ s ha i
+shai	_ s h a i
+shan	_shan
+shan	_sh an
+shan	_sha n
+shan	_sh a n
+shan	_s han
+shan	_ shan
+shan	_s ha n
+shan	_ sh an
+shan	_s h an
+shan	_ sha n
+shang	_shan g
+shang	_sh an g
+shang	_sha n g
+shang	_sh a n g
+shang	_s han g
+shang	_ shan g
+shang	_s ha n g
+shang	_ sh an g
+shang	_s h an g
+shang	_ sha n g
+shao	_sha o
+shao	_sh a o
+shao	_s ha o
+shao	_ sha o
+shao	_ sh a o
+shao	_s h a o
+shao	_ s ha o
+shao	_ s h a o
+she	_she
+she	_sh e
+she	_s he
+she	_ she
+she	_ sh e
+she	_s h e
+she	_ s he
+she	_ s h e
+shei	_she i
+shei	_sh e i
+shei	_s he i
+shei	_ she i
+shei	_ sh e i
+shei	_s h e i
+shei	_ s he i
+shei	_ s h e i
+shen	_shen
+shen	_she n
+shen	_sh e n
+shen	_sh en
+shen	_s hen
+shen	_ shen
+shen	_s he n
+shen	_ she n
+shen	_ sh e n
+shen	_s h e n
+sheng	_shen g
+sheng	_she n g
+sheng	_sh e n g
+sheng	_sh en g
+sheng	_s hen g
+sheng	_ shen g
+sheng	_s he n g
+sheng	_ she n g
+sheng	_ sh e n g
+sheng	_s h e n g
+shi	_sh i
+shi	_ sh i
+shi	_s h i
+shi	_ s h i
+shou	_sh o u
+shou	_s ho u
+shou	_ sh o u
+shou	_s h o u
+shou	_ s ho u
+shou	_ s h o u
+shu	_shu
+shu	_sh u
+shu	_s hu
+shu	_ shu
+shu	_ sh u
+shu	_s h u
+shu	_ s hu
+shu	_ s h u
+shua	_shua
+shua	_shu a
+shua	_sh u a
+shua	_sh ua
+shua	_s hua
+shua	_ shua
+shua	_s hu a
+shua	_ shu a
+shua	_ sh u a
+shua	_s h u a
+shuai	_shua i
+shuai	_shu a i
+shuai	_sh u a i
+shuai	_sh ua i
+shuai	_s hua i
+shuai	_ shua i
+shuai	_s hu a i
+shuai	_ shu a i
+shuai	_ sh u a i
+shuai	_s h u a i
+shuan	_shuan
+shuan	_shu an
+shuan	_sh uan
+shuan	_sh u an
+shuan	_shua n
+shuan	_shu a n
+shuan	_sh u a n
+shuan	_s huan
+shuan	_sh ua n
+shuan	_s hu an
+shuang	_shuan g
+shuang	_shu an g
+shuang	_sh uan g
+shuang	_sh u an g
+shuang	_shua n g
+shuang	_shu a n g
+shuang	_sh u a n g
+shuang	_s huan g
+shuang	_sh ua n g
+shuang	_s hu an g
+shui	_shu i
+shui	_sh u i
+shui	_s hu i
+shui	_ shu i
+shui	_ sh u i
+shui	_s h u i
+shui	_ s hu i
+shui	_ s h u i
+shun	_shu n
+shun	_sh u n
+shun	_s hu n
+shun	_ shu n
+shun	_ sh u n
+shun	_s h u n
+shun	_ s hu n
+shun	_ s h u n
+shuo	_shu o
+shuo	_sh u o
+shuo	_s hu o
+shuo	_ shu o
+shuo	_ sh u o
+shuo	_s h u o
+shuo	_ s hu o
+shuo	_ s h u o
+si	_s i
+si	_ s i
+song	_so n g
+song	_s o n g
+song	_ so n g
+song	_ s o n g
+sou	_so u
+sou	_s o u
+sou	_ so u
+sou	_ s o u
+ss	_s s
+ss	_ss
+ss	_ s s
+sss	_sss
+sss	_s s s
+sss	_ss s
+sss	_ s s s
+ssss	_ssss
+ssss	_sss s
+ssss	_s s s s
+ssss	_ss s s
+ssss	_ s s s s
+sssssssss	_sssssssss
+sssssssss	_ssss s s s s s
+sssssssss	_sss s s s s s s
+sssssssss	_s s s s s s s s s
+sssssssss	_ss s s s s s s s
+sssssssss	_ s s s s s s s s s
+sssssssssss	_sssssssssss
+sssssssssss	_ sssssssssss
+sssssssssss	_sssssssss s s
+sssssssssss	_ssss s s s s s s s
+sssssssssss	_sss s s s s s s s s
+sssssssssss	_s s s s s s s s s s s
+sssssssssss	_ss s s s s s s s s s
+sssssssssss	_ s s s s s s s s s s s
+ssssssssssssssssssss	_ssss ssssssssssssssss
+ssssssssssssssssssss	_sssssssss sssssssssss
+ssssssssssssssssssss	_sss s ssssssssssssssss
+ssssssssssssssssssss	_sss ssssssssssssssss s
+ssssssssssssssssssss	_s s s s ssssssssssssssss
+ssssssssssssssssssss	_s s ssssssssssssssss s s
+ssssssssssssssssssss	_s s s ssssssssssssssss s
+ssssssssssssssssssss	_s ssssssssssssssss s s s
+ssssssssssssssssssss	_ss s s ssssssssssssssss
+ssssssssssssssssssss	_ss s ssssssssssssssss s
+ssssssssssssssssssssssssssss	_s sssssssssss ssssssssssssssss
+ssssssssssssssssssssssssssss	_s ssssssssssssssss sssssssssss
+ssssssssssssssssssssssssssss	_sssssssssss s ssssssssssssssss
+ssssssssssssssssssssssssssss	_sssssssssss ssssssssssssssss s
+ssssssssssssssssssssssssssss	_ s sssssssssss ssssssssssssssss
+ssssssssssssssssssssssssssss	_ s ssssssssssssssss sssssssssss
+ssssssssssssssssssssssssssss	_ sssssssssss s ssssssssssssssss
+ssssssssssssssssssssssssssss	_ sssssssssss ssssssssssssssss s
+ssssssssssssssssssssssssssss	_ ssssssssssssssss sssssssssss s
+ssssssssssssssssssssssssssss	_ ssssssssssssssss s sssssssssss
+su	_su
+su	_s u
+su	_ su
+su	_ s u
+suan	_su an
+suan	_s uan
+suan	_s u an
+suan	_su a n
+suan	_s u a n
+suan	_s ua n
+suan	_ su an
+suan	_ s uan
+suan	_ s u an
+suan	_ su a n
+sui	_su i
+sui	_s u i
+sui	_ su i
+sui	_ s u i
+sun	_su n
+sun	_s u n
+sun	_ su n
+sun	_ s u n
+suo	_su o
+suo	_s u o
+suo	_ su o
+suo	_ s u o
+ta	_ta
+ta	_t a
+ta	_ ta
+ta	_ t a
+tai	_ta i
+tai	_t a i
+tai	_ ta i
+tai	_ t a i
+tan	_tan
+tan	_ta n
+tan	_t an
+tan	_t a n
+tan	_ tan
+tan	_ ta n
+tan	_ t an
+tan	_ t a n
+tang	_tan g
+tang	_ta n g
+tang	_t an g
+tang	_t a n g
+tang	_ tan g
+tang	_ ta n g
+tang	_ t an g
+tang	_ t a n g
+tao	_ta o
+tao	_t a o
+tao	_ ta o
+tao	_ t a o
+te	_te
+te	_t e
+te	_ te
+te	_ t e
+teng	_te n g
+teng	_t e n g
+teng	_t en g
+teng	_ te n g
+teng	_ t e n g
+teng	_ t en g
+ti	_ti
+ti	_t i
+ti	_ ti
+ti	_ t i
+tian	_ti an
+tian	_tia n
+tian	_t ian
+tian	_t i an
+tian	_ti a n
+tian	_t i a n
+tian	_t ia n
+tian	_ ti an
+tian	_ tia n
+tian	_ t ian
+tiao	_tia o
+tiao	_ti a o
+tiao	_t i a o
+tiao	_t ia o
+tiao	_ tia o
+tiao	_ ti a o
+tiao	_ t i a o
+tiao	_ t ia o
+tie	_ti e
+tie	_t i e
+tie	_ ti e
+tie	_ t i e
+ting	_ti n g
+ting	_t i n g
+ting	_t in g
+ting	_ ti n g
+ting	_ t i n g
+ting	_ t in g
+tong	_to n g
+tong	_t o n g
+tong	_ to n g
+tong	_ t o n g
+tou	_to u
+tou	_t o u
+tou	_ to u
+tou	_ t o u
+tu	_tu
+tu	_t u
+tu	_ tu
+tu	_ t u
+tuan	_tu an
+tuan	_t uan
+tuan	_t u an
+tuan	_tu a n
+tuan	_t u a n
+tuan	_t ua n
+tuan	_ tu an
+tuan	_ t uan
+tuan	_ t u an
+tuan	_ tu a n
+tui	_tu i
+tui	_t u i
+tui	_ tu i
+tui	_ t u i
+tun	_tu n
+tun	_t u n
+tun	_ tu n
+tun	_ t u n
+tuo	_tu o
+tuo	_t u o
+tuo	_ tu o
+tuo	_ t u o
+wa	_wa
+wa	_w a
+wa	_ wa
+wa	_ w a
+wai	_wa i
+wai	_w a i
+wai	_ wa i
+wai	_ w a i
+wan	_wan
+wan	_w an
+wan	_wa n
+wan	_w a n
+wan	_ wan
+wan	_ w an
+wan	_ wa n
+wan	_ w a n
+wang	_wan g
+wang	_w an g
+wang	_wa n g
+wang	_w a n g
+wang	_ wan g
+wang	_ w an g
+wang	_ wa n g
+wang	_ w a n g
+wei	_we i
+wei	_w e i
+wei	_ we i
+wei	_ w e i
+wen	_wen
+wen	_we n
+wen	_w e n
+wen	_w en
+wen	_ wen
+wen	_ we n
+wen	_ w e n
+wen	_ w en
+weng	_wen g
+weng	_we n g
+weng	_w e n g
+weng	_w en g
+weng	_ wen g
+weng	_ we n g
+weng	_ w e n g
+weng	_ w en g
+wo	_w o
+wo	_ w o
+wu	_w u
+wu	_ w u
+xi	_xi
+xi	_x i
+xi	_ xi
+xi	_ x i
+xia	_xia
+xia	_xi a
+xia	_x i a
+xia	_ xia
+xia	_x ia
+xia	_ xi a
+xia	_ x i a
+xia	_ x ia
+xian	_xian
+xian	_xia n
+xian	_xi an
+xian	_xi a n
+xian	_x ian
+xian	_x i an
+xian	_ xian
+xian	_x i a n
+xian	_ xia n
+xian	_ xi an
+xiang	_xian g
+xiang	_xia n g
+xiang	_xi an g
+xiang	_xi a n g
+xiang	_x ian g
+xiang	_x i an g
+xiang	_ xian g
+xiang	_x i a n g
+xiang	_ xia n g
+xiang	_ xi an g
+xiao	_xia o
+xiao	_xi a o
+xiao	_x i a o
+xiao	_ xia o
+xiao	_x ia o
+xiao	_ xi a o
+xiao	_ x i a o
+xiao	_ x ia o
+xie	_xi e
+xie	_x i e
+xie	_ xi e
+xie	_ x i e
+xin	_xin
+xin	_xi n
+xin	_x i n
+xin	_ xin
+xin	_x in
+xin	_ xi n
+xin	_ x i n
+xin	_ x in
+xing	_xin g
+xing	_xi n g
+xing	_x i n g
+xing	_ xin g
+xing	_x in g
+xing	_ xi n g
+xing	_ x i n g
+xing	_ x in g
+xiong	_xi o n g
+xiong	_x i o n g
+xiong	_ xi o n g
+xiong	_ x i o n g
+xiu	_xi u
+xiu	_x i u
+xiu	_ xi u
+xiu	_ x i u
+xu	_xu
+xu	_x u
+xu	_ xu
+xu	_ x u
+xuan	_xu an
+xuan	_xu a n
+xuan	_x uan
+xuan	_x u an
+xuan	_x u a n
+xuan	_ xu an
+xuan	_x ua n
+xuan	_ xu a n
+xuan	_ x uan
+xuan	_ x u an
+xue	_xu e
+xue	_x u e
+xue	_ xu e
+xue	_ x u e
+xun	_xu n
+xun	_x u n
+xun	_ xu n
+xun	_ x u n
+ya	_ya
+ya	_y a
+ya	_ ya
+ya	_ y a
+yan	_yan
+yan	_ya n
+yan	_y an
+yan	_y a n
+yan	_ yan
+yan	_ ya n
+yan	_ y an
+yan	_ y a n
+yang	_yan g
+yang	_ya n g
+yang	_y an g
+yang	_y a n g
+yang	_ yan g
+yang	_ ya n g
+yang	_ y an g
+yang	_ y a n g
+yao	_ya o
+yao	_y a o
+yao	_ ya o
+yao	_ y a o
+ye	_y e
+ye	_ y e
+yi	_yi
+yi	_y i
+yi	_ yi
+yi	_ y i
+yin	_yin
+yin	_yi n
+yin	_y i n
+yin	_y in
+yin	_ yin
+yin	_ yi n
+yin	_ y i n
+yin	_ y in
+ying	_yin g
+ying	_yi n g
+ying	_y i n g
+ying	_y in g
+ying	_ yin g
+ying	_ yi n g
+ying	_ y i n g
+ying	_ y in g
+yo	_yo
+yo	_y o
+yo	_ yo
+yo	_ y o
+yong	_yo n g
+yong	_y o n g
+yong	_ yo n g
+yong	_ y o n g
+you	_yo u
+you	_y o u
+you	_ yo u
+you	_ y o u
+yu	_yu
+yu	_y u
+yu	_ yu
+yu	_ y u
+yuan	_yu an
+yuan	_y uan
+yuan	_y u an
+yuan	_yu a n
+yuan	_y u a n
+yuan	_y ua n
+yuan	_ yu an
+yuan	_ y uan
+yuan	_ y u an
+yuan	_ yu a n
+yue	_yu e
+yue	_y u e
+yue	_ yu e
+yue	_ y u e
+yun	_yu n
+yun	_y u n
+yun	_ yu n
+yun	_ y u n
+za	_za
+za	_z a
+za	_ za
+za	_ z a
+zai	_za i
+zai	_z a i
+zai	_ za i
+zai	_ z a i
+zan	_za n
+zan	_z an
+zan	_zan
+zan	_z a n
+zan	_ za n
+zan	_ z an
+zan	_ zan
+zan	_ z a n
+zang	_za n g
+zang	_z an g
+zang	_zan g
+zang	_z a n g
+zang	_ za n g
+zang	_ z an g
+zang	_ zan g
+zang	_ z a n g
+zao	_za o
+zao	_z a o
+zao	_ za o
+zao	_ z a o
+ze	_ze
+ze	_z e
+ze	_ ze
+ze	_ z e
+zei	_ze i
+zei	_z e i
+zei	_ ze i
+zei	_ z e i
+zen	_zen
+zen	_ze n
+zen	_z e n
+zen	_z en
+zen	_ zen
+zen	_ ze n
+zen	_ z e n
+zen	_ z en
+zeng	_zen g
+zeng	_ze n g
+zeng	_z e n g
+zeng	_z en g
+zeng	_ zen g
+zeng	_ ze n g
+zeng	_ z e n g
+zeng	_ z en g
+zha	_zha
+zha	_zh a
+zha	_z ha
+zha	_ zha
+zha	_z h a
+zha	_ zh a
+zha	_ z ha
+zha	_ z h a
+zhai	_zha i
+zhai	_zh a i
+zhai	_z ha i
+zhai	_ zha i
+zhai	_z h a i
+zhai	_ zh a i
+zhai	_ z ha i
+zhai	_ z h a i
+zhan	_zhan
+zhan	_zh an
+zhan	_zha n
+zhan	_zh a n
+zhan	_z han
+zhan	_ zhan
+zhan	_z ha n
+zhan	_z h an
+zhan	_ zh an
+zhan	_ zha n
+zhang	_zhan g
+zhang	_zh an g
+zhang	_zha n g
+zhang	_zh a n g
+zhang	_z han g
+zhang	_ zhan g
+zhang	_z ha n g
+zhang	_z h an g
+zhang	_ zh an g
+zhang	_ zha n g
+zhao	_zha o
+zhao	_zh a o
+zhao	_z ha o
+zhao	_ zha o
+zhao	_z h a o
+zhao	_ zh a o
+zhao	_ z ha o
+zhao	_ z h a o
+zhe	_zhe
+zhe	_zh e
+zhe	_z he
+zhe	_ zhe
+zhe	_z h e
+zhe	_ zh e
+zhe	_ z he
+zhe	_ z h e
+zhen	_zhen
+zhen	_zhe n
+zhen	_zh e n
+zhen	_zh en
+zhen	_z hen
+zhen	_ zhen
+zhen	_z he n
+zhen	_ zhe n
+zhen	_z h e n
+zhen	_ zh e n
+zheng	_zhen g
+zheng	_zhe n g
+zheng	_zh e n g
+zheng	_zh en g
+zheng	_z hen g
+zheng	_ zhen g
+zheng	_z he n g
+zheng	_ zhe n g
+zheng	_z h e n g
+zheng	_ zh e n g
+zhi	_zh i
+zhi	_z h i
+zhi	_ zh i
+zhi	_ z h i
+zhong	_zho n g
+zhong	_zh o n g
+zhong	_z ho n g
+zhong	_ zho n g
+zhong	_z h o n g
+zhong	_ zh o n g
+zhong	_ z ho n g
+zhong	_ z h o n g
+zhou	_zho u
+zhou	_zh o u
+zhou	_z ho u
+zhou	_ zho u
+zhou	_z h o u
+zhou	_ zh o u
+zhou	_ z ho u
+zhou	_ z h o u
+zhu	_zhu
+zhu	_zh u
+zhu	_z hu
+zhu	_ zhu
+zhu	_z h u
+zhu	_ zh u
+zhu	_ z hu
+zhu	_ z h u
+zhua	_zhua
+zhua	_zhu a
+zhua	_zh u a
+zhua	_zh ua
+zhua	_z hua
+zhua	_z hu a
+zhua	_ zhua
+zhua	_ zhu a
+zhua	_z h u a
+zhua	_ zh u a
+zhuai	_zhua i
+zhuai	_zhu a i
+zhuai	_zh u a i
+zhuai	_zh ua i
+zhuai	_z hua i
+zhuai	_z hu a i
+zhuai	_ zhua i
+zhuai	_ zhu a i
+zhuai	_z h u a i
+zhuai	_ zh u a i
+zhuan	_zhuan
+zhuan	_zhu an
+zhuan	_zh uan
+zhuan	_zh u an
+zhuan	_zhua n
+zhuan	_zhu a n
+zhuan	_z huan
+zhuan	_zh u a n
+zhuan	_ zhuan
+zhuan	_z hu an
+zhuang	_zhuan g
+zhuang	_zhu an g
+zhuang	_zh uan g
+zhuang	_zh u an g
+zhuang	_zhua n g
+zhuang	_zhu a n g
+zhuang	_z huan g
+zhuang	_zh u a n g
+zhuang	_ zhuan g
+zhuang	_z hu an g
+zhui	_zhu i
+zhui	_zh u i
+zhui	_z hu i
+zhui	_ zhu i
+zhui	_z h u i
+zhui	_ zh u i
+zhui	_ z hu i
+zhui	_ z h u i
+zhun	_zhu n
+zhun	_zh u n
+zhun	_z hu n
+zhun	_ zhu n
+zhun	_z h u n
+zhun	_ zh u n
+zhun	_ z hu n
+zhun	_ z h u n
+zhuo	_zhu o
+zhuo	_zh u o
+zhuo	_z hu o
+zhuo	_ zhu o
+zhuo	_z h u o
+zhuo	_ zh u o
+zhuo	_ z hu o
+zhuo	_ z h u o
+zi	_z i
+zi	_ z i
+zong	_zo n g
+zong	_z o n g
+zong	_ zo n g
+zong	_ z o n g
+zou	_zo u
+zou	_z o u
+zou	_ zo u
+zou	_ z o u
+zu	_zu
+zu	_z u
+zu	_ zu
+zu	_ z u
+zuan	_zu an
+zuan	_z uan
+zuan	_z u an
+zuan	_zu a n
+zuan	_z u a n
+zuan	_z ua n
+zuan	_ zu an
+zuan	_ z uan
+zuan	_ z u an
+zuan	_ zu a n
+zui	_zu i
+zui	_z u i
+zui	_ zu i
+zui	_ z u i
+zun	_zu n
+zun	_z u n
+zun	_ zu n
+zun	_ z u n
+zuo	_zu o
+zuo	_z u o
+zuo	_ zu o
+zuo	_ z u o

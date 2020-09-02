@@ -1,0 +1,6 @@
+.idea/
+pinyin_wav2letter/test1/wav/wav_lists/train_pinyin.lst
+pinyin_wav2letter/test2/data/wav_lists/train.lst
+moives/*
+xwlb/20200326.mp4
+xwlb/20200326.wav
