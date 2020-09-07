@@ -19,6 +19,42 @@ def write_trans(dataset_name, src_list, write_file_path):
     return
 
 
+def appand_tsv():
+    src_file = "/home/psc/Desktop/code/asr/fairseq/examples/wav2vec/output/zh/wav2vec/supervised/train.tsv"
+    src_dict = {}
+    with open(src_file, "r") as tsv_fr:
+        root = next(tsv_fr).strip()
+        for line in tsv_fr:
+            wav_name, wav_len = line.strip().split("\t")
+            src_dict[wav_name] = wav_len
+
+    add_file = "/home/psc/Desktop/code/asr/fairseq/examples/wav2vec/output/zh/wav2vec/unsupersived/train.tsv"
+    add_dict = {}
+    with open(add_file, "r") as tsv_f:
+        root = next(tsv_f).strip()
+        for line in tsv_f:
+            wav_name, wav_len = line.strip().split("\t")
+            add_dict["unsupersived/" + wav_name] = wav_len
+
+    dictMerged = src_dict.copy()
+    dictMerged.update(add_dict)
+
+    keys = list(dictMerged.keys())
+    random.shuffle(keys)
+
+    dst_tsv = "train.tsv"
+    dataset_path = "/devdata/home/pishichan/code/asr/data/mandarin/"
+    with open(dst_tsv, 'w') as tsv_fw:
+        print(dataset_path, file=tsv_fw)
+
+        for audio_name, frames in dictMerged.items():
+            print('{}\t{}'.format(audio_name, frames), file=tsv_fw)
+
+
+appand_tsv()
+exit()
+
+
 basedir = '/devdata/home/pishichan/code/asr/data/mandarin/'
 # basedir = "/home/psc/Desktop/code/asr/data/mandarin/"
 dict_all = {}
@@ -32,7 +68,7 @@ for fname in glob.iglob(search_path, recursive=True):
     wav_cnt += len(dict_all[dataset_name])
 print("wav_cnt = %d " % wav_cnt)
 
-rate = 0.2
+rate = 0.5
 new_dict_all = {}
 new_wav_cnt = 0
 for dataset_name, dataset_list in dict_all.items():
